@@ -6,8 +6,6 @@
 
 I built a **Production-Grade Retrieval-Augmented Generation (RAG) System** that forces a robust AI model to read, analyze, and cite the exact textbook my professor assigned. Instead of generating blind answers, this assistant is anchored to academic truth, proving its work with **exact page numbers and confidence scores** for every single query.
 
-![Demo Placeholder](https://via.placeholder.com/800x400?text=Replace+with+Streamlit+App+Demo+Screenshot)
-
 ## 📖 How It Solves The AI Hallucination Problem
 When a user asks a question, this system doesn't just ask ChatGPT. It:
 1. Intercepts the query and rapidly calculates its mathematical vector.
